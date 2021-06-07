@@ -7,6 +7,8 @@ Allow to create, update, get articles from database.
 - RabbitMQ
 - Celery
 - Docker / Docker-compose
+- Databases
+- SQLAlchemy
 
 #### To start services run:
 ```
