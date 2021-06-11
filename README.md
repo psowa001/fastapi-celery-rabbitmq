@@ -1,4 +1,4 @@
-## **FastAPI application with RabbitMQ and Celery backdroud tasks**
+## **FastAPI application with RabbitMQ and Celery backgroud tasks**
 FastAPI, RabbitMQ, Celery usage example.
 Allow to create, update, get articles from database.
 
